@@ -25,5 +25,11 @@ namespace Dev_School
            
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            var gfffg = new Take_This();
+                gfffg.Main();
+        }
     }
 }

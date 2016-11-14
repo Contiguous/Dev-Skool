@@ -7,12 +7,12 @@ using System.Windows.Forms;
 
 namespace Dev_School
 {
-    class Whatever_you_want
+    class Take_This
     {
         public void Main()
         {
-            MessageBox.Show("Nothing to see here.");
-        }
+
+            MessageBox.Show("Should Have Taken a Friend");
+                }
     }
 }
-       
