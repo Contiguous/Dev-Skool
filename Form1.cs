@@ -16,5 +16,14 @@ namespace Dev_School
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            var fgffh = new Whatever_you_want();
+            fgffh.Main();
+
+           
+
+        }
     }
 }
