@@ -33,3 +33,9 @@ namespace Dev_School
         }
     }
 }
+
+{
+       private void button3_Click(object sender, EventArgs e)
+{ var idontknowhatthisis = new Public_IP
+               idontknowwhatthisis.Main();
+}
