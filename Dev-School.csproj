@@ -54,6 +54,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Public_IP.cs" />
     <Compile Include="Take_This.cs" />
     <Compile Include="Whatever_you_want.cs" />
     <EmbeddedResource Include="Form1.resx">
