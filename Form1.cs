@@ -22,20 +22,21 @@ namespace Dev_School
             var fgffh = new Whatever_you_want();
             fgffh.Main();
 
-           
+
 
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             var gfffg = new Take_This();
-                gfffg.Main();
+            gfffg.Main();
+        }
+
+        private void btnGetPublicIP_Click(object sender, EventArgs e)
+        {
+            var pip = new Public_IP();
+            tbxPublicIP.Text = pip.GetPublicIP();
         }
     }
 }
 
-{
-       private void button3_Click(object sender, EventArgs e)
-{ var idontknowhatthisis = new Public_IP
-               idontknowwhatthisis.Main();
-}

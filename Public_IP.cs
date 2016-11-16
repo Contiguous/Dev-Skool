@@ -9,14 +9,16 @@ using System.IO;
 namespace Dev_School
 {
     class Public_IP
-
-
-    { public void Main()}
-
     {
-        static string GetIPAddress()
+
+        public void Main()
         {
-            String address = "";
+        }
+
+        public string GetPublicIP()
+        {
+
+            string address = "";
             WebRequest request = WebRequest.Create("http://checkip.dyndns.org/");
             using (WebResponse response = request.GetResponse())
             using (StreamReader stream = new StreamReader(response.GetResponseStream()))
@@ -30,5 +32,8 @@ namespace Dev_School
             address = address.Substring(first, last - first);
 
             return address;
-        } } }
+
+        }
+    }
+}
 
