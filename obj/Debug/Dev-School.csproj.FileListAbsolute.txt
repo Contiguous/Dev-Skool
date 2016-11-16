@@ -9,3 +9,6 @@ C:\Users\Tablet\Documents\GitHub\Dev-Skool\obj\Debug\Dev_School.Properties.Resou
 C:\Users\Tablet\Documents\GitHub\Dev-Skool\obj\Debug\Dev-School.csproj.GenerateResource.Cache
 C:\Users\Tablet\Documents\GitHub\Dev-Skool\obj\Debug\Dev-School.exe
 C:\Users\Tablet\Documents\GitHub\Dev-Skool\obj\Debug\Dev-School.pdb
+C:\Users\kerst\Documents\GitHub\Dev-Skool\bin\Debug\Dev-School.exe.config
+C:\Users\kerst\Documents\GitHub\Dev-Skool\obj\Debug\Dev-School.exe
+C:\Users\kerst\Documents\GitHub\Dev-Skool\obj\Debug\Dev-School.pdb
