@@ -33,7 +33,6 @@
             this.btnGetPublicIP = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.tbxPublicIP = new System.Windows.Forms.TextBox();
-            this.button3 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -89,22 +88,11 @@
             this.tbxPublicIP.TabIndex = 3;
             this.tbxPublicIP.UseWaitCursor = true;
             // 
-            // button3
-            // 
-            this.button3.Location = new System.Drawing.Point(25, 172);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(430, 59);
-            this.button3.TabIndex = 4;
-            this.button3.Text = "kerst";
-            this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(467, 789);
-            this.Controls.Add(this.button3);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
@@ -124,7 +112,6 @@
         private System.Windows.Forms.Button btnGetPublicIP;
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.TextBox tbxPublicIP;
-        private System.Windows.Forms.Button button3;
     }
 }
 

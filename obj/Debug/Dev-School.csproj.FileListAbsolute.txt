@@ -18,12 +18,3 @@ C:\Users\kerst\Documents\GitHub\Dev-Skool\obj\Debug\Dev-School.csprojResolveAsse
 C:\Users\kerst\Documents\GitHub\Dev-Skool\obj\Debug\Dev_School.Form1.resources
 C:\Users\kerst\Documents\GitHub\Dev-Skool\obj\Debug\Dev_School.Properties.Resources.resources
 C:\Users\kerst\Documents\GitHub\Dev-Skool\obj\Debug\Dev-School.csproj.GenerateResource.Cache
-D:\Users\kerst\GitHub\Dev-Skool\bin\Debug\Dev-School.exe.config
-D:\Users\kerst\GitHub\Dev-Skool\obj\Debug\Dev-School.exe
-D:\Users\kerst\GitHub\Dev-Skool\obj\Debug\Dev-School.pdb
-D:\Users\kerst\GitHub\Dev-Skool\bin\Debug\Dev-School.exe
-D:\Users\kerst\GitHub\Dev-Skool\bin\Debug\Dev-School.pdb
-D:\Users\kerst\GitHub\Dev-Skool\obj\Debug\Dev-School.csprojResolveAssemblyReference.cache
-D:\Users\kerst\GitHub\Dev-Skool\obj\Debug\Dev_School.Form1.resources
-D:\Users\kerst\GitHub\Dev-Skool\obj\Debug\Dev_School.Properties.Resources.resources
-D:\Users\kerst\GitHub\Dev-Skool\obj\Debug\Dev-School.csproj.GenerateResource.Cache
