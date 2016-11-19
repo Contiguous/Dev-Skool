@@ -55,6 +55,12 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Public_IP.cs" />
+    <Compile Include="Shuddarun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Shuddarun.Designer.cs">
+      <DependentUpon>Shuddarun.cs</DependentUpon>
+    </Compile>
     <Compile Include="Take_This.cs" />
     <Compile Include="Whatever_you_want.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -69,6 +75,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Shuddarun.resx">
+      <DependentUpon>Shuddarun.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

@@ -36,6 +36,12 @@ namespace Dev_School
         {
             button3.Text = new WebClient().DownloadString(@"http://icanhazip.com").Trim();
         }
+
+        private void btnShuddarun_Click(object sender, EventArgs e)
+        {
+            Shuddarun shd = new Shuddarun();
+            shd.Show();
+        }
     }
 }
 
